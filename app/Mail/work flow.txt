@@ -1,0 +1,20 @@
+
+gmail
+
+2 step verification
+-------------------
+1) Accounts and Import
+2) Other Google Account settings
+3) 2-Step Verification
+4) App password - uhjy uhjy uhjy - 12/16 digit password
+
+
+
+Laravel mail configuration
+--------------------------
+config/mail.php
+.env
+php artisan make:mail FileName
+pass data from controller
+Mail class - construct global variable
+print dynamic data in view (html)
